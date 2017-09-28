@@ -1,0 +1,4 @@
+Sitemap: https://staticsiteplayground.github.io/emacs-test/sitemapindex.xml
+
+User-Agent: *
+Host: staticsiteplayground.github.io

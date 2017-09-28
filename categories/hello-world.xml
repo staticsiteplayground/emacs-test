@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Emacs-test (Posts about hello-world)</title><link>https://staticsiteplayground.github.io/emacs-test/</link><description></description><atom:link href="https://staticsiteplayground.github.io/emacs-test/categories/hello-world.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2017 &lt;a href="mailto:n.tesla@example.com"&gt;Nikola Tesla&lt;/a&gt; </copyright><lastBuildDate>Thu, 28 Sep 2017 13:08:59 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Post from emacs</title><link>https://staticsiteplayground.github.io/emacs-test/posts/post-from-emacs/</link><dc:creator>Nikola Tesla</dc:creator><description>&lt;p&gt;
+Does this work?
+&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;skinparam monochrome true
+PaymentViewController &amp;lt;|-- BancontactViewController
+
+PaymentViewController : update(cell: TableViewCell, with:FormRow)
+BancontactViewController : statusDidChange(status: ThirdPartyStatus)
+&lt;/pre&gt;&lt;/div&gt;</description><category>emacs</category><category>hello-world</category><guid>https://staticsiteplayground.github.io/emacs-test/posts/post-from-emacs/</guid><pubDate>Thu, 28 Sep 2017 13:06:15 GMT</pubDate></item></channel></rss>
